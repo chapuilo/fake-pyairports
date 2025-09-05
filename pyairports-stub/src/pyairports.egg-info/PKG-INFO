@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: pyairports
+Version: 0.0.0
+Summary: Minimal stub for pyairports
+Author: stub
+Requires-Python: >=3.8
